@@ -1,5 +1,6 @@
 # FireTV Filter List
 # Blocking FireTV Amazon Content
+# NOTE: this will block all Amazon content on the TV only allowing the installed apps to operate
 # License: https://mit-license.org/
 # Last modified: 25 February 2026
 #
@@ -13,3 +14,4 @@ dcape-na.amazon.com
 ktpx.amazon.com
 m.media-amazon.com
 msh.amazon.com
+unagi-na.amazon.com

@@ -3,7 +3,13 @@
 # License: https://mit-license.org/
 # Last modified: 25 February 2026
 #
+#updates
+softwareupdates.amazon.com
+
+#monitoring
 firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
 monitoring.us-east-1.amazonaws.com
-softwareupdates.amazon.com
+
+#ads
+ads-setu-proxy.amazon.com

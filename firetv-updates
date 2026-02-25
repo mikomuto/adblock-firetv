@@ -1,6 +1,9 @@
 # FireTV Filter List
-# Blocking FireTV updates
+# Blocking FireTV updates and monitoring
 # License: https://mit-license.org/
 # Last modified: 25 February 2026
 #
+firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com
+monitoring.us-east-1.amazonaws.com
 softwareupdates.amazon.com

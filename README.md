@@ -1,6 +1,6 @@
 This project's objective is to remove the Amazon video content from my FireTV. I use only a few apps like Jellyfin and Tubi. Using firetv-amazon-content.txt will block most(all?) Amazon content from showing.<br/><br/>
 Both files are recommended. firetv-blocklist.txt only contains blocks for software updated, and a few trackers. It is safe to use if you still want Amazon video to work.<br/><br/>
-Addition actions to reduce possible tracking include redirecting a couple url requests that should be only captive portal checks. The following instructions are for setting up a redirection of those queries on Openwrt:<br/><br/>
+Additional actions to reduce possible tracking include redirecting, I haven't checked the data to see what was sent, a couple url requests that should be only captive portal checks. The following instructions are for setting up a redirection of those queries on Openwrt:<br/><br/>
 First, create a new file to handle the ok message return:<br/><br/>
 vim /www/cgi-bin/error.cgi<br/>
  ====error.cgi====<br/>

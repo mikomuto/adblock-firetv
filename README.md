@@ -22,4 +22,8 @@ vim /etc/config/uhttpd<br/>
 	option cgi_prefix  /cgi-bin<br/>
 	list   interpreter ".cgi=/bin/ash"<br/>
 ====end uhttpd====<br/><br/>
-done
+Now we need to change DNS records to hijack the domains.<br/>
+Go to Network -> DNS -> DNS Records -> Hostnames<br/>
+Click Add and enter firetvcaptiveportal.com in the txt box. Set the IP address to your router's internal 192.* address<br/>
+Now do another for fireoscaptiveportal.com<br/><br/>
+Done. Now you have a broken TV that only works with installed apps.

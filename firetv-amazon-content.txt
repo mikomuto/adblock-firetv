@@ -1,17 +1,47 @@
 # FireTV Filter List
 # Blocking FireTV Amazon Content
-# NOTE: this will block all Amazon content on the TV only allowing the installed apps to operate
+# NOTE: this will block all Amazon content on the TV only allowing the installed apps to operate Amazon Videos will not play!
 # License: https://mit-license.org/
 # Last modified: 25 February 2026
 #
+217.1.168.192.in-addr.arpa
+ab64preq9sbn.na-f.api.amazonvideo.com
 aca-livecards-service.amazon.com
+afx-cx-ext-na.amazon.com
 alexa.amazon.com
+andr-30-afthy7abba-0.api.amazonvideo.com
 andr-30-afthy7abba-725016010.api.amazonvideo.com
+api.amazon.com
 arcus-uswest.amazon.com
+atv-ext.amazon.com
+avs-alexa-19-na.amazon.com
 cdws.us-east-1.amazonaws.com
+crashlyticsreports-pa.googleapis.com
+d21m0ezw6fosyw.cloudfront.net
 d24hosivsxf1sb.cloudfront.net
+d2a45ul8pxjvk7.cloudfront.net
 dcape-na.amazon.com
+device-messaging-na.amazon.com
+dp-discovery-na-ext.amazon.com
+dp-gw-na.amazon.com
+dss-na.amazon.com
+ecx.images-amazon.com
+firereleasenotes-na.amazon.com
+ftv-smtv.ntp-fireos.com
+ftvpes-na.amazon.com
+ftvr-na.amazon.com
+idc-service-oz.amazon.com
+kinesis.us-east-1.amazonaws.com
 ktpx.amazon.com
 m.media-amazon.com
+mas-ext.amazon.com
+mas-sdk.amazon.com
 msh.amazon.com
+na.prism.digital.amazon.dev
+pact-proxy.amazon.com
+preprod.amazoncrl.com
+prod.us-east-1.sonar.prime-video.amazon.dev
+s3-iad-2.cf.trailer.row.aiv-cdn.net
+u03lw25r9l.execute-api.us-east-1.amazonaws.com
 unagi-na.amazon.com
+us-east-1.prod.enira.devices.amazon.dev

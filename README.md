@@ -26,5 +26,6 @@ Now we need to change DNS records to hijack the domains.<br/>
 Go to Network -> DNS -> DNS Records -> Hostnames<br/>
 Click Add and enter firetvcaptiveportal.com in the txt box. Set the IP address to your router's internal 192.* address<br/>
 Now do another for fireoscaptiveportal.com<br/><br/>
-Done. Now you have a broken TV that only works with installed apps.
- <img src="https://github.com/mikomuto/adblock-firetv/blob/main/IMG_0229.jpg" > 
+Done. Now you have a broken TV that only works with installed apps.<br/>
+<img src="https://github.com/mikomuto/adblock-firetv/blob/main/IMG_0229.jpg"><br/>
+<img src="https://github.com/mikomuto/adblock-firetv/blob/main/Screenshot%202026-02-26%20at%2008-37-19%20AdGuard%20Home.png">

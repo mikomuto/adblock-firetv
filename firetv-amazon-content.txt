@@ -4,7 +4,6 @@
 # License: https://mit-license.org/
 # Last modified: 25 February 2026
 #
-217.1.168.192.in-addr.arpa
 ab64preq9sbn.na-f.api.amazonvideo.com
 aca-livecards-service.amazon.com
 afx-cx-ext-na.amazon.com

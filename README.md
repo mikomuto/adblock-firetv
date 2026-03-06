@@ -17,6 +17,7 @@ cat /path/to/my/error404.html<br/>
 ===end error.cgi====<br/><br/>
 chmod 755 /www/cgi-bin/error.cgi<br/><br/>
 vim /etc/config/uhttpd<br/>
+add under "config uhttpd 'main'"<br/>
 ====uhttpd====<br/>
 	option error_page  /cgi-bin/error.cgi<br/>
 	option cgi_prefix  /cgi-bin<br/>

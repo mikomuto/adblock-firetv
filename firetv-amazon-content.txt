@@ -32,7 +32,6 @@ ftvr-na.amazon.com
 idc-service-oz.amazon.com
 kinesis.us-east-1.amazonaws.com
 ktpx.amazon.com
-m.media-amazon.com
 mas-ext.amazon.com
 mas-sdk.amazon.com
 msh.amazon.com
